@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WA1-Materials.iml" filepath="$PROJECT_DIR$/WA1-Materials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamcommon-module/streamcommon-module.iml" filepath="$PROJECT_DIR$/streamcommon-module/streamcommon-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamproxy-module/streamproxy-module.iml" filepath="$PROJECT_DIR$/streamproxy-module/streamproxy-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamserver-module/streamserver-module.iml" filepath="$PROJECT_DIR$/streamserver-module/streamserver-module.iml" />
+    </modules>
+  </component>
+</project>

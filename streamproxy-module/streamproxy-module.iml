@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../WA1-Materials/streamproxy">
+      <sourceFolder url="file://$MODULE_DIR$/../WA1-Materials/streamproxy" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="streamcommon-module" exported="" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
